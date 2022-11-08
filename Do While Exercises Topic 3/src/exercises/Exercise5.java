@@ -25,8 +25,8 @@ public class Exercise5 {
 			} else {
 				System.out.println("Invalid number.");
 			}
-		if(secretNumber == 141) {
-			System.out.println("\n\n\n\n\n\nTask Force 141"); //Little Easter Egg
+		if(secretNumber == 141) { //Little Easter Egg
+			System.out.println("\n\n\n\n\n\nTask Force 141");
 		}
 		sc.close();
 	}
