@@ -1,5 +1,4 @@
 package exercises;
-import java.util.*;
 
 public class Exercise1 {
 	public static void main(String[] args) {
@@ -11,5 +10,3 @@ public class Exercise1 {
 		while(i <= 20); //Set limit
 	}
 }
-/*Realiza un programa que muestre por pantalla los 20 
-primeros números naturales (1, 2, 3... 20).*/
